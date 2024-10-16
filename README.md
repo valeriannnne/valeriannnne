@@ -1,6 +1,7 @@
 # 💫 About Me:
 👧 Hi, I'm Lianne👋
-<br>🎒 I'm a graduating Computer Science Student from the Polytechnic University of the Philippines
+<br>🎒 I'm a Computer Science graduate from the Polytechnic University of the Philippines
+<br>💻 I'm a Freelance Tester at uTest
 <br>🧠 I'm currently interested in expanding my knowledge regarding Automation Testing
 <br>🎥 I’m interested in Watching Movies and Series, Learning Guitar, and Coding.<br>
 
